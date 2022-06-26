@@ -1,9 +1,9 @@
  # Contents
  
- - [Taking to long to run](https://github.com/ReflexTheLegend/windowsfetch/edit/main/TROUBLESHOOT.md#taking-to-long-to-run)
- - [xxxx module not found](https://github.com/ReflexTheLegend/windowsfetch/edit/main/TROUBLESHOOT.md#xxxx-module-not-found)
- - [Permission denied](https://github.com/ReflexTheLegend/windowsfetch/edit/main/TROUBLESHOOT.md#permission-denied)
- - ["This program works only on Windows OS!"](https://github.com/ReflexTheLegend/windowsfetch/edit/main/TROUBLESHOOT.md#this-program-works-only-on-windows-os)
+ - [Taking to long to run](https://github.com/ReflexTheLegend/windowsfetch/main/TROUBLESHOOT.md#taking-to-long-to-run)
+ - [xxxx module not found](https://github.com/ReflexTheLegend/windowsfetch/main/TROUBLESHOOT.md#xxxx-module-not-found)
+ - [Permission denied](https://github.com/ReflexTheLegend/windowsfetch/main/TROUBLESHOOT.md#permission-denied)
+ - ["This program works only on Windows OS!"](https://github.com/ReflexTheLegend/windowsfetch/main/TROUBLESHOOT.md#this-program-works-only-on-windows-os)
 
 
 # Taking to long to run
