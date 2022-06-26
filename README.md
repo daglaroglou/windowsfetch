@@ -22,3 +22,6 @@
 ![Windows 10](https://i.imgur.com/g3u8ARS.png)
 ## Windows 11
 ![Windows 11](https://i.imgur.com/2s4iUEC.png)
+
+# Guides
+[Installation] - [Troubleshooting]
