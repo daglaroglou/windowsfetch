@@ -331,7 +331,7 @@ llllllllllllllF lllllllllllllllllll         {colorama.Fore.GREEN}Apps{colorama.F
 **************` *******************         {colorama.Fore.GREEN}Terminal{colorama.Fore.WHITE}: {term}{colors.BLUE}
 ggggggggggggggr ggwwwwwwwwwwwwwwwww         {colorama.Fore.GREEN}Resolution{colorama.Fore.WHITE}: {width}x{height}{colors.BLUE}
 llllllllllllllF lllllllllllllllllll         {colorama.Fore.GREEN}CPU{colorama.Fore.WHITE}: {cpuname} ({cpucores}){colors.BLUE}
-llllllllllllllF lllllllllllllllllll         {colorama.Fore.GREEN}GPU{colorama.Fore.WHITE}: {gpu_id} {gpu_mem}GB ({gpuper}) - ({gpu_temperature}°C){colors.BLUE}
+llllllllllllllF lllllllllllllllllll         {colorama.Fore.GREEN}GPU{colorama.Fore.WHITE}: {gpu_id} {gpu_mem}GB ({gpuper}%) - ({gpu_temperature}°C){colors.BLUE}
 llllllllllllllF lllllllllllllllllll         {colorama.Fore.GREEN}Memory{colorama.Fore.WHITE}: {usedram}GB / {totalram}GB ({usedrampercent}%){colors.BLUE}
 llllllllllllllF lllllllllllllllllll         {colorama.Fore.GREEN}Disks{colorama.Fore.WHITE}: {disks}{colors.BLUE}
 &&$lllllllllllF lllllllllllllllllll         {colorama.Fore.GREEN}Python{colorama.Fore.WHITE}: {pyver}{colors.BLUE}
