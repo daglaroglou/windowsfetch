@@ -24,4 +24,4 @@
 ![Windows 11](https://i.imgur.com/2s4iUEC.png)
 
 # Guides
-[Installation] - [Troubleshooting]
+[Installation] - [[Troubleshooting](https://github.com/ReflexTheLegend/windowsfetch/blob/main/TROUBLESHOOT.md)]
