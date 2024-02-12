@@ -207,14 +207,13 @@ print(f'{colors.FAIL}.', end='')
 #  IP ADDRESS  #
 timeout = 5
 try:
-    api = requests.get('https://ipapi.co/json', timeout=timeout)
-    json = api.json()
-    myip = json['ip']
-    countryname = json['country_name']
-    countrynamecode = json['country_code']
+    myip = requests.get('https://api.ipify.org', timeout=timeout).text
     proxapi = requests.get(f'https://proxycheck.io/v2/{myip}?vpn=1&asn=1', timeout=timeout)
+    json = proxapi.json()
+    countryname = json[str(myip)]['country']
+    countrynamecode = json[str(myip)]['isocode']
     json2 = proxapi.json()
-    isproxy = json2[f'{myip}']['proxy']
+    isproxy = json2[myip]['proxy']
     if isproxy == 'no':
         isproxy = 'Clean IP'
     elif isproxy == 'yes':
